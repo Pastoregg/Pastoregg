@@ -1,4 +1,4 @@
-Pastoreg 
+Pastoregg 
 
 I´m Graduated in Public Administration from Universidade Estadual Paulista "Júlio de Mesquita Filho" (FCLAr) and Student of Systems Analysis and Development at Universidade Paulista.
 
