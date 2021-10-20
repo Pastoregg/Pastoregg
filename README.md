@@ -13,6 +13,9 @@
    <img width ="80" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/giancarlo-pastore-029853169/">
 </a>   
 
+<a href="https://trailblazer.me/id/gpastore5">
+   <img width ="80" height="25" src="https://img.shields.io/badge/Trailhead-0077B5?style=for-the-badge&logo=Trailhead&logoColor=white" alt="https:///in/giancarlo-pastore-029853169/">
+
 </div>
 <br/>
 
@@ -41,11 +44,11 @@ Factors that led me to the end of 2020 to start my studies in CRM (salesforce) a
 
 <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<img  src="https://img.shields.io/badge/Salesforce-1798c1?style=for-the-badge&logo=salesforce3&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 
 </div>
 <br/>
