@@ -58,8 +58,6 @@ Factors that led me to the end of 2020 to start my studies in CRM (salesforce) a
 <h2 style="font-weight:bold"> Analytics </h2>
 <br/>
 
-
-
    <a href="https://github.com/Pastoregg">
 
    <img height="160em" src="https://github-readme-stats-lime-nine.vercel.app/api?username=Pastoregg&show_icons=true&theme=dracula " />
