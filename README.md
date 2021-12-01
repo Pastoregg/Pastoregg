@@ -27,7 +27,7 @@ I´m Graduated in Public Administration from Universidade Estadual Paulista "Jú
 <p>
 Throughout my career, I had the opportunity to work in the commercial area (in terms of organizational processes in the sales sector) as well as in the area of ​​monitoring and management of financial and budget data.
 
-Factors that led me to the end of 2020 to start my studies in CRM (salesforce) as well as my deepening in the area of ​​analysis and development of systems and data.
+Factors that led me to the end of 2020 to start my studies in CRM (salesforce) as well as my deepening in the area of ​​analysis and development of systems and data in 2021.
 </p>
 <br/>
 
