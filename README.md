@@ -51,7 +51,7 @@ Factors that led me to the end of 2020 to start my studies in CRM (salesforce) a
 </div>
 <br/>
 
-
+ 
 
 <h2 style="font-weight:bold"> Analytics </h2>
 <br/>
