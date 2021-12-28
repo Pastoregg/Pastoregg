@@ -1,5 +1,5 @@
 <div align="center">
-<h2 style="font-weight:bold"> // Hello World! // </h2>
+<h2 style="font-weight:bold"> # Hello World! # </h2>
 
 <br>
 <!--YOU ARE ✨ _s.p.e.c.i.a.l._ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,6 +45,8 @@ Factors that led me to the end of 2020 to start my studies in CRM (salesforce) a
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img  src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 
