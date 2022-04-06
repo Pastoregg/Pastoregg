@@ -69,6 +69,7 @@ Factors that led me to the end of 2020 to start my studies in CRM (salesforce) a
 <br/>
 <br/>
 <h6>
+
     If you want to use this automatic status check : <a href="https://github.com/anuraghazra/github-readme-stats">
      Anurag's GitHub stats </a>
 </h6>
