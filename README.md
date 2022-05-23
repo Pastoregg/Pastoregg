@@ -35,7 +35,7 @@ Factors that led me to the end of 2020 to start my studies in CRM (salesforce) a
 
 <h2 style="font-weight:bold"> Languages & tools </h2>
 <br/>
-
+<br/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 
 <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
