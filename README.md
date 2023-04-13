@@ -1,17 +1,15 @@
 
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pastoregg)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pastoregg)
-
-
-# 💻Tech Stack
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Pastoregg&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pastoregg&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pastoregg&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pastoregg&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">As a technologist in systems analysis and development, I am constantly seeking to evolve and improve my skills. The world of technology is ever-changing, and staying ahead of the curve requires a commitment to lifelong learning.  <br/><br/>
+ Backend Student with Node.js & Typescript focus <br/>
+</div>
+##
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/pastoregg/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+</div>   
+<h1 align="center"> Top Technologies </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F&r" />
+  <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
+</div>
