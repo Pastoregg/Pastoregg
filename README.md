@@ -2,7 +2,7 @@
 
 <div align="center">As a technologist in systems analysis and development, I am constantly seeking to evolve and improve my skills. The world of technology is ever-changing, and staying ahead of the curve requires a commitment to lifelong learning.  <br/><br/>
 
- Backend Student with Node.js & Typescript focus (and a Python curious) <br/>
+ Backend Student with Node.js, Python & Typescript.
 </div>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pastoregg/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
