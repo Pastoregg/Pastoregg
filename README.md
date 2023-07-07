@@ -15,5 +15,5 @@
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
   <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791style=forthebadge&labelColor=black&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white"/>
 </div>
