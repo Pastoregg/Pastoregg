@@ -3,7 +3,7 @@
 <div align="center">As a technologist in systems analysis and development, I am constantly seeking to evolve and improve my skills. The world of technology is ever-changing, and staying ahead of the curve requires a commitment to lifelong learning.  <br/><br/>
 
  Backend Student
- Stacks: Node.js, Python, SQL & Typescript.
+ Stacks: Node.js, Python, SQL & Typescript
 </div>
 
 <div align="center"> 
