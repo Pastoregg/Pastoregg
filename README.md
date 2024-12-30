@@ -1,8 +1,7 @@
 
 
-<div align="center">As a technologist in systems analysis and development, I am constantly seeking to evolve and improve my skills. The world of technology is ever-changing, and staying ahead of the curve requires a commitment to lifelong learning.  <br/><br/>
+<div align="center">Cybersec. and technological enthusiast, I am constantly seeking to evolve and improve my skills. The world of technology is ever-changing, and staying ahead of the curve requires a commitment to lifelong learning.  <br/><br/>
 
- Backend Student
  Stacks: Linux, Node.js, Python, SQL & Typescript.
 </div>
 
